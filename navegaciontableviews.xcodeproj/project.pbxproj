@@ -16,6 +16,7 @@
 		3D08164721529C220030AA99 /* navegaciontableviewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D08164621529C220030AA99 /* navegaciontableviewsUITests.swift */; };
 		3D0816582152A6440030AA99 /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0816572152A6440030AA99 /* Materia.swift */; };
 		3D08165A2152AC5A0030AA99 /* CeldaMateria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0816592152AC5A0030AA99 /* CeldaMateria.swift */; };
+		3D25D14021542AF500D4A0B2 /* DetallleMateriaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D25D13F21542AF500D4A0B2 /* DetallleMateriaController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3D08164821529C220030AA99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D0816572152A6440030AA99 /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
 		3D0816592152AC5A0030AA99 /* CeldaMateria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeldaMateria.swift; sourceTree = "<group>"; };
+		3D25D13F21542AF500D4A0B2 /* DetallleMateriaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallleMateriaController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			children = (
 				3D08162821529C1E0030AA99 /* ViewController.swift */,
 				3D0816592152AC5A0030AA99 /* CeldaMateria.swift */,
+				3D25D13F21542AF500D4A0B2 /* DetallleMateriaController.swift */,
 			);
 			path = viewacontrollers;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				3D08162921529C1E0030AA99 /* ViewController.swift in Sources */,
 				3D08165A2152AC5A0030AA99 /* CeldaMateria.swift in Sources */,
 				3D0816582152A6440030AA99 /* Materia.swift in Sources */,
+				3D25D14021542AF500D4A0B2 /* DetallleMateriaController.swift in Sources */,
 				3D08162721529C1E0030AA99 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
